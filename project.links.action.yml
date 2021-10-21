@@ -1,0 +1,5 @@
+project.add_form:
+  route_name: entity.project.add_form
+  title: 'Add project'
+  appears_on:
+    - entity.project.collection

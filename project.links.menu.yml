@@ -1,0 +1,10 @@
+entity.project.settings:
+  title: Project
+  description: Configure a Project entity type
+  route_name:  entity.project.settings
+  parent: system.admin_structure
+entity.project.collection:
+  title: Projects
+  description: List of projects
+  route_name: entity.project.collection
+  parent: system.admin_content

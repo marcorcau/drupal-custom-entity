@@ -1,0 +1,7 @@
+entity.project.settings:
+  path: 'admin/structure/project'
+  defaults:
+    _form: '\Drupal\project\Form\ProjectSettingsForm'
+    _title: 'Project'
+  requirements:
+    _permission: 'administer project'

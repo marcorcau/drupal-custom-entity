@@ -1,0 +1,7 @@
+name: Project
+type: module
+description: 'Provides a project entity.'
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
+configure: entity.project.settings

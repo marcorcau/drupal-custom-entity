@@ -1,0 +1,5 @@
+administer project:
+  title: 'Administer project settings'
+  restrict access: true
+access project overview:
+  title: 'Access project overview page'
